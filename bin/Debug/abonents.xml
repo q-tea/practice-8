@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfAbonentInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AbonentInfo>
+    <Name>Ivan</Name>
+    <Location>Location1</Location>
+    <Address>StreetName 13-21-1</Address>
+    <Phone>111-111</Phone>
+    <ID>123</ID>
+    <StartDate>2015,12,12</StartDate>
+    <InstallationPayment>180</InstallationPayment>
+    <Fee>1000</Fee>
+    <LastPayment>2016, 12, 12</LastPayment>
+  </AbonentInfo>
+  <AbonentInfo>
+    <Name>Igor</Name>
+    <Location>Moscow</Location>
+    <Address>StreetName 1-2-3</Address>
+    <Phone>111-112</Phone>
+    <ID>124</ID>
+    <StartDate>2012, 11, 1</StartDate>
+    <InstallationPayment>1800</InstallationPayment>
+    <Fee>1000</Fee>
+    <LastPayment>2013, 1, 1</LastPayment>
+  </AbonentInfo>
+  <AbonentInfo>
+    <Name>Ivan</Name>
+    <Location>Moscow</Location>
+    <Address>StreetName 13-21-2</Address>
+    <Phone>111-113</Phone>
+    <ID>1234</ID>
+    <StartDate>2011, 1, 1</StartDate>
+    <InstallationPayment>1111</InstallationPayment>
+    <Fee>1100</Fee>
+    <LastPayment>2015, 10, 11</LastPayment>
+  </AbonentInfo>
+  <AbonentInfo>
+    <Name>Ivan</Name>
+    <Location>Location1</Location>
+    <Address>StreetName 3-3-3</Address>
+    <Phone>111-111</Phone>
+    <ID>121</ID>
+    <StartDate>1999, 11, 11</StartDate>
+    <InstallationPayment>180111</InstallationPayment>
+    <Fee>100011</Fee>
+    <LastPayment>2005, 1, 2</LastPayment>
+  </AbonentInfo>
+  <AbonentInfo>
+    <Name>Name</Name>
+    <Location>Leningrad</Location>
+    <Address>StreetName 44-44-44</Address>
+    <Phone>132-111</Phone>
+    <ID>1222</ID>
+    <StartDate>2006, 4, 4</StartDate>
+    <InstallationPayment>111</InstallationPayment>
+    <Fee>1111</Fee>
+    <LastPayment>2011, 4, 1</LastPayment>
+  </AbonentInfo>
+</ArrayOfAbonentInfo>

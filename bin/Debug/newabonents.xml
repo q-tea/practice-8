@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAbonentInfo>
+  <AbonentInfo>
+    <Name>1111111111111111111111111111111</Name>
+    <Location>2222222222222222222222222</Location>
+    <Address>33333333333333333333333333333333</Address>
+    <Phone>444444444444444444444444444444</Phone>
+    <ID>5555555555555555555555555555555</ID>
+    <StartDate>6666666666666666666666666666</StartDate>
+    <InstallationPayment>7777777777777777777777777777</InstallationPayment>
+    <Fee>8888888888888888888888888888888</Fee>
+    <LastPayment>99999999999999999999999999999</LastPayment>
+  </AbonentInfo>
+</ArrayOfAbonentInfo>
